@@ -35,11 +35,11 @@ Dialogflow is a natural language understanding (NLU) platform developed by Googl
 Fulfillment, in the context of chatbots and virtual assistants, refers to the process of generating and delivering a response to a user's query or request. When a user interacts with a chatbot or virtual assistant, the system needs to interpret the user's input, determine the appropriate response, and deliver it back to the user.
 
 
-
-[API](https://github.com/juanantoniofm12/fulfillment-webhook-translate-python)
-[API](https://github.com/dialogflow/fulfillment-weather-python)
+## Reference
+- [Translate Fulfillment](https://github.com/juanantoniofm12/fulfillment-webhook-translate-python)
+- [Weather Forecast Fulfillment](https://github.com/dialogflow/fulfillment-weather-python)
 
 (08/03/2018)
 - [demo](https://console.dialogflow.com/api-client/demo/embedded/5ef0a2c6-38cf-407c-9423-ec3a0c208f18)
-- [image](https://github.com/tinaba96/chatbot_dialogflow/assets/57109730/c6fe811a-b6cf-42f1-a424-18b7f0d66dba)
+- ![image](https://github.com/tinaba96/chatbot_dialogflow/assets/57109730/c6fe811a-b6cf-42f1-a424-18b7f0d66dba)
 
